@@ -1,0 +1,27 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Comfort', Helvetica, Arial, sans-serif;
+    color: #050505;
+}
+
+.badge {
+    display: inline-block;
+    min-width: 10px;
+    padding: 3px 7px;
+    margin-top: 26px;
+    font-weight: 700;
+    line-height: 2;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-align: center;
+    background-color: #00b7ff;
+    border-radius: 10px;
+}
+
+.weather {
+    width: 55%;
+    margin-bottom: 20px;
+    background: #d2efff;
+
+}
